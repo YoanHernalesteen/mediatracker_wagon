@@ -9,8 +9,8 @@ Media Trackr lets you build collections of the films, books and video games you'
 Built in 2 weeks by a team of 3 during Le Wagon's full-stack web development bootcamp (2025).
 
 <p align="center">
-  <img width="280" alt="Media Trackr home" src="https://github.com/user-attachments/assets/9aab734f-aa85-4d07-9290-794c8c267c13" />
-  <img width="280" alt="Media Trackr results" src="https://github.com/user-attachments/assets/0fc5dc6d-61ae-4b18-96bb-85a3e6f24db3" />
+  <img height="500" alt="Media Trackr home" src="https://github.com/user-attachments/assets/9aab734f-aa85-4d07-9290-794c8c267c13" />
+  <img height="500" alt="Media Trackr results" src="https://github.com/user-attachments/assets/0fc5dc6d-61ae-4b18-96bb-85a3e6f24db3" />
 </p>
 
 ## ✨ Features
